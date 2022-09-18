@@ -48,8 +48,8 @@ global.linkz = "https://youtube.com/c/JasBiruLangit?sub_confirmation=1" //your t
 global.websitex = "https://www.amcode27.my.id/2022/03/membuat-feed-instagram-nyambung-dengan-canva.html" //ur website to be displayed
 global.botscript = 'https://github.com/adhebawor/AMcode27-CheemsBot-MD4' //script link
 global.reactmoji = "🪀" //ur menu react emoji
-global.themeemoji = "🪀" //ur theme emoji
-global.packname = "ঔৣ☬AMͥcͣoͫde27☬ঔৣ🦄🦄🦄 " //ur sticker watermark packname
+global.themeemoji = "🔮" //ur theme emoji
+global.packname = "By : ঔৣ☬AMͥcͣoͫde27☬ঔৣ" //ur sticker watermark packname
 global.author = "ঔৣ☬AMͥcͣoͫde27☬ঔৣ" //ur sticker watermark author
 
 //Bot theme media
